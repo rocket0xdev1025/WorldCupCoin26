@@ -748,8 +748,8 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
     let f = "$WORLDCUP",
       g = "0xcomingsoon",
       x = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
-      y = "https://x.com/WORLDCUP26_ethX",
-      v = "https://t.me/WORLDCUP26_eth",
+      y = "https://x.com/WORLDCUP26_x",
+      v = "https://t.me/WORLDCUP26_portal",
       w = [
         { label: "About", href: "#history" },
         { label: "Fans", href: "#about" },
