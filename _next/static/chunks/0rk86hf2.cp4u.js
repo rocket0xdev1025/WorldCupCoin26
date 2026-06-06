@@ -746,8 +746,8 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
     var p = e.i(91788),
       m = e.i(26019);
     let f = "$WORLDCUP",
-      g = "0xcomingsoon",
-      x = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+      g = "0x107e1c5bdd20f51fc14e82958972857479c9b6a3",
+      x = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x107e1c5bdd20f51fc14e82958972857479c9b6a3",
       y = "https://x.com/worldcup_26_x",
       v = "https://t.me/worldcup_26_portal",
       w = [
@@ -8243,7 +8243,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                               "w-full px-8 py-3.5 text-sm sm:w-auto lg:hidden",
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                            href: "https://dexscreener.com/ethereum/0x107e1c5bdd20f51fc14e82958972857479c9b6a3",
                             target: "_blank",
                             rel: "noreferrer",
                             className:
@@ -9375,7 +9375,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
         n: "03",
         tag: "60'",
         h: "Go to Uniswap",
-        p: "Open Uniswap > Swap. Select ETH > $WORLDCUP. Paste the contract: 0xcomingsoon",
+        p: "Open Uniswap > Swap. Select ETH > $WORLDCUP. Paste the contract: 0x107e1c5bdd20f51fc14e82958972857479c9b6a3",
       },
       {
         n: "04",
